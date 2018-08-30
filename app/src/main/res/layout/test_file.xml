@@ -13,4 +13,16 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/ic_cover" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="253dp"
+        android:layout_height="135dp"
+        android:layout_marginBottom="7dp"
+        android:layout_marginEnd="55dp"
+        android:layout_marginRight="55dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/ic_bg_cover" />
 </android.support.constraint.ConstraintLayout>
