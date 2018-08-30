@@ -25,4 +25,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:srcCompat="@drawable/ic_bg_cover" />
+
+    <!--hi i got your code , i think its working now i am sending this message to you let me know if this worked this time -->
+
 </android.support.constraint.ConstraintLayout>
